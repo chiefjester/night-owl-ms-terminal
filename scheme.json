@@ -1,0 +1,21 @@
+{
+  "background" : "#011627",
+  "black" : "#011627",
+  "blue" : "#82AAFF",
+  "brightBlack" : "#44596B",
+  "brightBlue" : "#5CA7E4",
+  "brightCyan" : "#21C7A8",
+  "brightGreen" : "#22DA6E",
+  "brightPurple" : "#7E57C2",
+  "brightRed" : "#EF5350",
+  "brightWhite" : "#FFFFFF",
+  "brightYellow" : "#FFEB95",
+  "cyan" : "#7FDBCA",
+  "foreground" : "#CCCCCC",
+  "green" : "#ADDB67",
+  "name" : "Night Owl",
+  "purple" : "#C792EA",
+  "red" : "#F78C6C",
+  "white" : "#BEC5D4",
+  "yellow" : "#FFCB8B"
+}
